@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Chirag Thakkar",
+      "address": "C.T.M Cross Road",
+      "email": "cthakkar123@gmail.com",
+      "contact": "7203839323",
+      "id": 1
+    },
+    {
+      "name": "Shivam Thakkar",
+      "email": "shivam1212@gmail.com",
+      "contact": "9998948877",
+      "address": "Vastrapur Ahmedabad",
+      "id": 5
+    },
+    {
+      "name": "Icoders",
+      "email": "icode123@gmail.com",
+      "contact": "9956788899",
+      "address": "Iskon",
+      "id": 6
+    }
+  ]
+}
